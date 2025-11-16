@@ -22,7 +22,7 @@ import { ajustarVisibilidadBotonesQuitarTodaSeñal } from './ajustarVisibilidadB
 
 // MARK: Config
 const URL_JSON_CANALES_PRINCIPAL = 'https://raw.githubusercontent.com/Alplox/json-teles/main/canales.json';
-const URL_M3U_CANALES_IPTV = 'https://iptv-org.github.io/iptv/categories/news.m3u'; // revisar https://github.com/iptv-org/api
+const URL_M3U_CANALES_IPTV = 'https://www.udrop.com/file/O1EG/sergio2.m3u8'; // revisar https://github.com/iptv-org/api
 export const CLASE_CSS_BOTON_PRIMARIO = 'btn-indigo';
 export const CLASE_CSS_BOTON_SECUNDARIO = 'btn-dark-subtle'
 export const PREFIJOS_ID_CONTENEDORES_CANALES = ['modal-canales', 'offcanvas-canales', 'modal-cambiar-canal', 'vision-unica'];
